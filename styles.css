@@ -1,0 +1,22 @@
+/* Google font added */
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto&display=swap');
+
+.body{
+    font-family: 'Roboto', sans-serif;
+}
+.custom-bg{
+    background-color: #FFF9F4;
+}
+.my-font{
+    font-family: 'Bebas Neue', cursive;
+    
+}
+.custom-header{
+    color:  #FA804C;
+}
+.custom-btn{
+    background-color: #3543BC ;
+    color: white;
+    font-weight: 500;
+}
